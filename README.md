@@ -196,9 +196,9 @@ export HF_TOKEN="your_token_here"
 # Run the server
 node server.js
 ```
-Now you can run the script `test-hf-mcp.py` and follow the instructions to check if your MCP connection is working properly.
-
 The server should output: "Hugging Face MCP server running on stdio"
+
+Now you can run the script `test-hf-mcp.py` and follow the instructions to check if your MCP connection is working properly.
 
 ## Security Notes
 
