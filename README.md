@@ -51,7 +51,7 @@ npm install -g .
 
 ### 2. Configure Cursor
 
-Add this configuration to your Cursor MCP settings (usually in `~/.cursor/mcp_config.json` or through Cursor's settings):
+Add this configuration to your Cursor MCP settings (usually in `~/.cursor/mcp.json` or through Cursor's settings):
 
 ```json
 {
